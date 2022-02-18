@@ -1,0 +1,2 @@
+set(swiftpro_MESSAGE_FILES "/home/m/catkin_ws/src/RosForSwiftAndSwiftPro/swiftpro/msg/SwiftproState.msg;/home/m/catkin_ws/src/RosForSwiftAndSwiftPro/swiftpro/msg/position.msg;/home/m/catkin_ws/src/RosForSwiftAndSwiftPro/swiftpro/msg/angle4th.msg;/home/m/catkin_ws/src/RosForSwiftAndSwiftPro/swiftpro/msg/status.msg;/home/m/catkin_ws/src/RosForSwiftAndSwiftPro/swiftpro/msg/Vclassify.msg")
+set(swiftpro_SERVICE_FILES "")
